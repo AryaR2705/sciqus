@@ -3,7 +3,7 @@
 [Link(deployed)](https://sciqus.netlify.app/)
 
 
-# Project Name
+# Sciqus Assignment
 
 ## Overview
 
