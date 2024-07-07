@@ -50,6 +50,21 @@ This project is a React application designed for showcasing various components a
 
 ## Getting Started
 
-1. **Installation**:
+1. **Vite**:
+   ```bash
+   npm create vite@latest
+
+
+2. **Installation**:
    ```bash
    npm install
+
+
+3. **running**:
+   ```bash
+   npm run dev
+
+
+4. **deploy**:
+   ```bash
+   npm run build
