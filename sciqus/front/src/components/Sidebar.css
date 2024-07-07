@@ -1,0 +1,27 @@
+.sidebar-button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 5px;
+  text-align: left;
+  background: linear-gradient(to bottom, rgb(81, 178, 181), rgb(81, 178, 181));
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  color: #333;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 3);
+}
+
+.sidebar-button:hover {
+  background: linear-gradient(to bottom, hotpink, greenyellow);
+}
+
+.sidebar-button:focus {
+  outline: none;
+}
+
+
+.sidebar{
+  margin-top: 10px;
+}

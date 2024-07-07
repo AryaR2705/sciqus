@@ -1,0 +1,7 @@
+.site-list {
+  list-style: none;
+}
+
+.site-list li {
+  margin-bottom: 10px; 
+}
